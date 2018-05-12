@@ -1,0 +1,35 @@
+_repo: The-Mummy-and-Miss-Nitocris--A-Phantasy-of-the-Fourth-Dimension_19231
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Griffith, George Chetwynd
+    alias: Griffith-Jones, George Chetwynd
+    birthdate: 1857
+    deathdate: 1906
+    gutenberg_agent_id: '8557'
+    url: http://www.gutenberg.org/2009/agents/8557
+    wikipedia: http://en.wikipedia.org/wiki/George_Griffith
+description: 'Take an unforgettable trip to another plane of existence in The Mummy
+  and Miss Nitocriss: A Phantasy of the Fourth Dimension, a wild, rollicking sci-fi
+  novel from author George Chetwynd Griffith. This tale blends a remarkable melange
+  of zany characters and impossible-to-predict plot twists into one seamless -- and
+  eminently entertaining -- package.'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mummies -- Fiction'
+- !lcsh 'Fantasy fiction'
+- !lcc 'PR'
+- !lcsh 'Supernatural -- Fiction'
+title: 'The Mummy and Miss Nitocris: A Phantasy of the Fourth Dimension'
+url: http://www.gutenberg.org/ebooks/19231
